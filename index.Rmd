@@ -3,13 +3,13 @@ title: "Chenkai Jiang"
 image: "CJ.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/chenkai-jiang-a9842624a/"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/Chenkai0515"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:cjiang31@jh.edu"
 output:
   postcards::trestles
 ---
@@ -30,6 +30,5 @@ B.S. in Computer Science | September 2017 - May 2021
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Graduate Student Researcher**  | January 2023 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
